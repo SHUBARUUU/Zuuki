@@ -7,7 +7,6 @@ public class ZuukiApp {
         //
         zuukiApp(); //run the application
 
-        displayTiteLoop();
     }
 
     public static void zuukiApp() {
